@@ -1,0 +1,23 @@
+# Directories
+.vs/
+.vscode/
+bin*/
+obj*/
+logs/
+*.tlog/
+
+# Files
+*.user
+*.DS_STORE
+*.xcworkspace/
+*.xcodeproj/
+*.vcxproj*
+*.recipe
+*.sln
+*.pdb
+*.obj
+*Makefile
+*.pyc
+*.log
+*.tlog
+*.lastbuildstate
